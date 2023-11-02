@@ -32,7 +32,7 @@ he foundation of the printer, typically made of sturdy materials such as metal o
 ### HOLDER :
 A part that holds the linear rails and/or motor in place
 
-###ROD :
+### ROD :
 vertical rails that the printer's effector (the part that moves around to print) travels up and down.
 
 ### TOP COVER FRAME :
