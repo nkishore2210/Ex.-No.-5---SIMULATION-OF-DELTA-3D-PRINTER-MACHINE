@@ -69,8 +69,8 @@ A display screen that allows the user to interact with the printer, typically us
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
-### Name: KISHORE N
-### Register Number: 212222240049
+### Name: MANO KARTHICK S
+### Register Number: 212222230077
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
